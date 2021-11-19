@@ -45,6 +45,7 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "libp2p": "~0.9.1",
     "libp2p-multiplex": "^0.4.3",
     "libp2p-railing": "~0.5.1",
@@ -67,6 +68,16 @@
     "libp2p-websockets": "^0.9.1",
     "mafmt": "^2.1.5",
     "multiaddr": "^2.1.3",
+=======
+    "babel-runtime": "^6.11.6",
+    "libp2p-secio": "^0.6.0",
+    "libp2p-spdy": "^0.9.0",
+    "libp2p-swarm": "^0.23.0",
+    "libp2p-webrtc-star": "^0.4.3",
+    "libp2p-websockets": "^0.8.1",
+    "mafmt": "^2.1.2",
+    "multiaddr": "^2.0.2",
+>>>>>>> origin/greenkeeper-libp2p-secio-0.6.0
     "peer-book": "^0.3.0",
     "peer-id": "^0.8.1",
     "peer-info": "^0.8.2"
